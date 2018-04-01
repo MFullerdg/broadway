@@ -2,7 +2,7 @@ html {
   font-family:helvetica;
   text-align:center;
 }
-div {
+.nav {
   background-image:url("../images/the-flatiron-building.png");
   color:white;
 }
